@@ -16,7 +16,7 @@ Multithreaded real-time hand gesture recognition system with comparison of singl
 
 ## ✨ Features
 
-- Recognition of 5 gestures: ✌️ Victory, 👍 Thumbs Up, 👌 OK, 🤘 Rock, 🖕 Middle Finger, 👋 Hello
+- Recognition of 6 gestures: ✌️ Victory, 👍 Thumbs Up, 👌 OK, 🤘 Rock, 🖕 Middle Finger, 👋 Hello
 - Two operating modes:
   - Single-threaded (sequential processing)
   - Multi-threaded (parallel capture and processing)
